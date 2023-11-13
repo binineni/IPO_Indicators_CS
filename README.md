@@ -7,16 +7,19 @@ Consumer-focused news recommendation service through Natural Language Processing
 - Streamlit을 활용하여 서비스를 구축함으로써 분석 결과의 활용성을 높였다.
 
 
-<img width="1407" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/15a3239a-860c-4de8-89d6-efec1e977433">
+<img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
 
 <br/><br/>
 
-<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/4beb17aa-f2fe-4c35-926b-b51301dd8354"  width="760" height="430">
+<img width="1117" alt="IPO_Indiactors_CS_고객데이터EDA" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/cd927cce-3fa3-4cec-8353-174d433fb3d0">
 
 <br/><br/>
 
-<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/0f356a3b-0702-4988-8e51-69f3cc828969"  width="650" height="700">
+<img width="1177" alt="IPO_Indiactors_CS_Datapreprocessing" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/cc8400ee-f0e4-4bc7-b462-85c5799693e8">
 
+<br/><br/>
+
+<img width="1142" alt="IPO_Indiactors_CS_Modeling_result" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/2be73cc7-c041-4413-9b55-b426e6e5d6ef">
 
 ## 📚 Data
 - client_feature_vector.csv : 제공 받은 BC카드 고객 결제 데이터를 분석하여 도출한 고객 Feature Vector

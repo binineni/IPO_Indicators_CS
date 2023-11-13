@@ -7,7 +7,7 @@ Consumer-focused news recommendation service through Natural Language Processing
 - Streamlit을 활용하여 서비스를 구축함으로써 분석 결과의 활용성을 높였다.
 
 
-<img src="https://github.com/tgwon/News_Recommendation/assets/102985590/63e26b89-bdf0-4b07-893e-5d866b2dac02"  width="760" height="430">
+<img width="1407" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/15a3239a-860c-4de8-89d6-efec1e977433">
 
 <br/><br/>
 

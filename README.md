@@ -1,10 +1,10 @@
 # IPO_Indicators_CustomerService
-Consumer-focused news recommendation service through Natural Language Processing
+Development of evaluation indicators for IPO and customer services for the convenience of IPO investments.
 
 ## ✍ 요약
-- 소비자 결제 데이터 분석과 한국어 뉴스 분류 모델을 통해 소비자에게 적합한 뉴스를 추천해준다.
+- MZ세대의 점유율을 높이기 위한 공모주 청약에 대한 판단 지표 개발
 
-- Streamlit을 활용하여 서비스를 구축함으로써 분석 결과의 활용성을 높였다.
+- Streamlit을 활용한 WebPage 배포로 활용성 증가
 
 
 <img width="1416" alt="IPO_Indiactors_CS_FlowChart" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/143b9af7-0067-4e7e-bf64-da7f18d25a74">
@@ -21,11 +21,11 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 <img width="1142" alt="IPO_Indiactors_CS_Modeling_result" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/2be73cc7-c041-4413-9b55-b426e6e5d6ef">
 
-## 📚 Data
-- client_feature_vector.csv : 제공 받은 BC카드 고객 결제 데이터를 분석하여 도출한 고객 Feature Vector
-- daily_data.csv : 데일리 뉴스 데이터
-- daily_result.csv : 모델 예측 값을 추가한 데일리 뉴스 데이터
+<br/><br/>
 
+<img width="631" alt="IPO_Indiactors_CS_Prototype" src="https://github.com/GGoodong/IPO_Indicators_CS/assets/132545436/03a4ce85-16f0-4aa6-ba74-a7c7072b7aae">
 
 ## 🏆 최종결과
-- 제 5회 미래에셋증권 빅데이터 페스티벌 빅데이터 부문 우수상
+- 모델 정확도 74.17%
+- 모델 재현율 65.12%
+- 제 5회 미래에셋증권 빅데이터 페스티벌 빅데이터 부문 **우수상**

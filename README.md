@@ -1,5 +1,5 @@
 # IPO_Indicators_CustomerService
-Development of evaluation indicators for IPO and customer services for the convenience of IPO investments.
+[웹페이지](https://mireaessetbigdatafestival-sdjszewg65vlh5j3ndytpb.streamlit.app/)
 
 ## ✍ 요약
 - MZ세대의 점유율을 높이기 위한 공모주 청약에 대한 판단 지표 개발
